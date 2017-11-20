@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Dream Fabric</string>
+    <string name="title_activity_fabric_detail">FabricDetailActivity</string>
+    <string name="fabricName">TextView</string>
 </resources>
